@@ -1,0 +1,22 @@
+{
+  "brand": "studio",
+  "formats": [
+    "16:9",
+    "9:16",
+    "1:1"
+  ],
+  "fps": 30,
+  "blur": 4,
+  "music": {
+    "source": "synth",
+    "style": "pulse",
+    "gain": 0.8
+  },
+  "sfx": {
+    "gain": 0.9
+  },
+  "voice": {
+    "source": "none"
+  },
+  "loudness": -14
+}

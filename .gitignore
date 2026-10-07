@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.env
+**/build/
+**/out/stills/
+**/out/silent_*.mp4
+**/out/strip_*.png
+**/audio/mix_raw.wav

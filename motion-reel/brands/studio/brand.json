@@ -1,0 +1,22 @@
+{
+  "name": "Studio",
+  "tagline": "Motion films, rendered from code",
+  "cta": "Book a film",
+  "url": "studio.example",
+  "colors": {
+    "bg": "#121211",
+    "paper": "#F2EFE8",
+    "ink": "#121211",
+    "inkOnDark": "#F2EFE8",
+    "muted": "#6E6B64",
+    "line": "#2A2926",
+    "accent": "#FF5B2E",
+    "accent2": "#2E6BFF"
+  },
+  "fonts": {
+    "display": {"family": "Space Grotesk", "files": {"500": "fonts/SpaceGrotesk-500.ttf", "700": "fonts/SpaceGrotesk-700.ttf"}},
+    "ui": {"family": "Inter", "files": {"400": "fonts/Inter-400.ttf", "600": "fonts/Inter-600.ttf", "800": "fonts/Inter-800.ttf"}}
+  },
+  "logo": null,
+  "notes": "House brand placeholder for the new production company. Replace name, colors and logo once the company name is decided. Fonts are SIL Open Font License (Space Grotesk, Inter)."
+}

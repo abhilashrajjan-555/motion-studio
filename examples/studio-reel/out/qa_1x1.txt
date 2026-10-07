@@ -1,0 +1,7 @@
+QA 1:1
+  contact sheet : out/contact_1x1.png (2 fps)
+  phone test    : out/phone_1x1.png (360 px wide)
+  cut strips    : 5 in out/strip_1x1_*.png
+  dead time     : none
+  deterministic : yes
+  loudness      : -14.2 LUFS
